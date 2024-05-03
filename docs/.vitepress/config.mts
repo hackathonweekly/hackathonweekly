@@ -12,7 +12,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: '加入我们', link: '/join-us' },
-      { text: '关于我们', link: '/about-us' }
+      { text: '关于我们', link: '/about-us' },
+      { text: '飞书知识库', link: 'https://hackathonweekly.feishu.cn/wiki/WQ7EwFC7BijePAkMkAHcajkNnae' }
     ],
 
     socialLinks: [
