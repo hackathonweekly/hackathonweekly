@@ -11,7 +11,8 @@ export default defineConfig({
     logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: '加入我们', link: '/join-us' },
+      { text: '线上活动', link: 'https://hackathonweekly.feishu.cn/wiki/W5oAwI9o4irrBIkpYdxcQvSQnfK' },
+      { text: '线下活动', link: 'https://hackathonweekly.feishu.cn/wiki/XVnTw947riOQJckIVsZcUVRln2c' },
       { text: '关于我们', link: '/about-us' },
       { text: '飞书知识库', link: 'https://hackathonweekly.feishu.cn/wiki/WQ7EwFC7BijePAkMkAHcajkNnae' }
     ],

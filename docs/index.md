@@ -8,11 +8,14 @@ hero:
   tagline: "在这里，每个周末都是新点子的起飞时刻！"
   actions:
     - theme: brand
-      text: 了解详情
+      text: 关于我们
       link: /about-us
     - theme: alt
-      text: 跟我们一起嗨
-      link: /join-us
+      text: 线上活动
+      link: https://hackathonweekly.feishu.cn/wiki/W5oAwI9o4irrBIkpYdxcQvSQnfK
+    - theme: alt
+      text: 线下活动
+      link: https://hackathonweekly.feishu.cn/wiki/XVnTw947riOQJckIVsZcUVRln2c
 
 features:
   - icon: 🛠️
