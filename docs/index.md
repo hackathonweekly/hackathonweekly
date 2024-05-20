@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Hackathon Weekly 🚀 "
-  text: "周周黑客马拉松，每周一次的创意狂欢"
-  tagline: "在这里，每个周末都是新点子的起飞时刻！"
+  text: "周周黑客马拉松"
+  tagline: "每月1个周末，创造1个最小产品原型，解决1个生活痛点，也许就是下一个改变世界的产品"
   actions:
     - theme: brand
       text: 关于我们
