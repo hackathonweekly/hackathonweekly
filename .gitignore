@@ -1,20 +1,52 @@
-temp.md
+temp.*
 temp/
-/coverage
-/src/client/shared.ts
-/src/node/shared.ts
-*.log
-*.tgz
+.obsidian/
+.Trash/
+.trash/
 .DS_Store
+
+# IDE related
+
 .idea
+
+# Obsidian
+
+**/.obsidian/*
+!**/.obsidian/workspace*
+!**/.obsidian/graph*
+!**/.obsidian/snippets/
+
+# Temporary files
+
 .temp
-.vite_opt_cache
-.vscode
-dist
-cache
-temp
-examples-temp
+
+# Nuxt
+
+.nuxt
+
+# Node.js
+
 node_modules
-pnpm-global
-TODOs.md
-*.timestamp-*.mjs
+.npmrc
+
+# VitePress
+
+**/.vitepress/dist
+**/.vitepress/docsMetadata.json
+**/.vitepress/cache/
+
+# Netlify
+
+.netlify/functions-serve/*
+
+# Generated files
+
+components.d.ts
+
+# Local env files
+
+*.local
+
+# Logs
+
+*.log
