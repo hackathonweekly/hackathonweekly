@@ -244,7 +244,7 @@ export default defineConfig({
         // scanStartPath: null,
         resolvePath: '/独立开发者手册/',
         collapsed: true,
-        collapseDepth: 2,
+        collapseDepth: 3,
         // useFolderLinkFromIndexFile: 点击文件夹名称的时候,会跳转到文件夹下的 index 文件
         // 如果你只想让你的文件夹名称只能展开或者关闭,而不是链接到什么地方,请不要用这个选项, 比如 vitepress 官网就是这样的
         // useFolderLinkFromIndexFile: true,
