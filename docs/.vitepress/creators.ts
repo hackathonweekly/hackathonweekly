@@ -32,6 +32,19 @@ export const creators: Creator[] = [
     nameAliases: ['jackiexiao', '肖鉴津'],
     emailAliases: ['jackie.xiao@outlook.com'],
   },
+  {
+    name: 'Arnold Xiao（逸云）',
+    avatar: '',
+    username: 'Arnold Xiao',
+    title: '发起人',
+    desc: '设计&产品',
+    links: [
+      { type: 'github', icon: 'github', link: 'https://github.com/hingchou' },
+      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/nightowlhc' },
+    ],
+    nameAliases: ['Arnold Xiao', '逸云'],
+    emailAliases: ['nightowlhc@gmail.com'],
+  },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)
   return c as Creator

@@ -221,7 +221,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '线上活动', link: '/线上活动' },
       { text: '线下活动', link: '/线下活动' },
-      { text: '独立开发者手册', link: '/独立开发者手册/' },
+      { text: '独立开发者手册', link: '/indie-handbook/getting-started' },
       { text: '最近更新', link: '/toc' },
       // { text: '关于我们', link: '/about-us' },
     ],
@@ -240,9 +240,9 @@ export default defineConfig({
       //   excludeFolders: ['隐藏'],
       // },
       {
-        documentRootPath: '独立开发者手册',
-        // scanStartPath: null,
-        resolvePath: '/独立开发者手册/',
+        documentRootPath: '/docs',
+        scanStartPath: 'indie-handbook',
+        resolvePath: '/indie-handbook/',
         collapsed: true,
         collapseDepth: 3,
         // useFolderLinkFromIndexFile: 点击文件夹名称的时候,会跳转到文件夹下的 index 文件

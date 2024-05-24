@@ -4,7 +4,7 @@ export const siteShortName = 'Hackathon Weekly'
 export const siteDescription = 'Hackathon Weekly'
 
 /** 文档所在目录 */
-export const include = ['独立开发者手册']
+export const include = ['indie-handbook']
 
 /** Repo */
 export const githubRepoLink = 'https://github.com/hackathonweekly/hackathonweekly'

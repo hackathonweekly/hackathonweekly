@@ -19,7 +19,7 @@ hero:
       link: /线下活动
     - theme: alt
       text: 独立开发者手册(开发中)
-      link: /独立开发者手册/index
+      link: /indie-handbook/getting-started
 
 features:
   - icon: 🛠️
