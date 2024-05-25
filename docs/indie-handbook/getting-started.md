@@ -4,6 +4,7 @@ aliases:
   - 独立开发者手册
   - indie-book
 ---
+# 独立开发者手册 Indie Handbook
 
 > [!WARNING]
 > Work in progress 这本手册还未完成, 在此之前, 你可以阅读其他人写的独立开发者手册

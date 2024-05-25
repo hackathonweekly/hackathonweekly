@@ -1,7 +1,7 @@
 
 
-- [ ] 确定整体目录
-- [ ] 逐一搬运 & 转载有用的信息 (以规范的格式) 
+- [x] 确定整体目录
+- [ ] 逐一阅读搬运 & 转载有用的信息 (以规范的格式) 
     - [x] https://wiki.decohack.com/
     - https://indiehacker.one/
     - [中文SideProject Guide](https://sideproject.guide/idea)
@@ -14,9 +14,19 @@
     - https://github.com/josephchang10/awesome-indie
     - https://sideproject.guide/
 - [ ] 增加友情链接
-- [ ] Edit link 在开头和结尾显示
 - [ ] 添加自动格式化笔记的功能, 比如中英文标点转换, 比如自动添加中英文之间的空格等等, 自动首字母大小写等等
 - [x] 文档全部迁移到 docs 下面, 更规范一点
+- [ ] 添加 README
+- [ ] github 以及主页上 添加贡献者列表 https://github.com/zotero-chinese/wiki
+
+待定
+- [ ] Edit link 在开头和结尾显示
 - [ ] 文件名全部起为英文, 网站链接名字更清晰,另外也方便之后做多语种
 - [ ] 两种方式阅读，github或者网页
-- [ ] github 以及主页上 添加贡献者列表 https://github.com/zotero-chinese/wiki
+
+## template
+> [!INFO]
+> - 作者：
+> - 原文链接：
+> - 授权协议：使用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议进行共享
+> - 是否修改：是
