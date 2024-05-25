@@ -6,6 +6,12 @@ aliases:
 ---
 # 独立开发者手册 Indie Handbook
 
+## 关于手册
+
+这是一本独立开发者手册，旨在帮助有想法的人构建自己的产品。通过文档共创和社区驱动的方式，我们希望能够帮助更多的人更好的理解独立开发的过程。
+
+这是公益项目，我们欢迎所有人一起共建这个手册。没有知识星球付费, 没有广告，没有会员制度，只有纯粹的知识共享。
+
 > [!WARNING]
 > Work in progress 这本手册还未完成, 在此之前, 你可以阅读其他人写的独立开发者手册
 
@@ -14,17 +20,12 @@ aliases:
 > - https://sideproject.guide/ 中英文
 > - [《一人企业方法论》2.0 ](https://github.com/easychen/one-person-businesses-methodology-v2.0)
 > - [程序员如何优雅地赚零花钱](https://github.com/easychen/howto-make-more-money)
-> - [精益副业》](https://github.com/easychen/lean-side-bussiness)
+> - [精益副业](https://github.com/easychen/lean-side-bussiness)
 > - [全栈开发路线图](https://learnku.com/articles/68565)
 > - [程序员的第二曲线](https://symbol.iamkasong.com/)
 > - [独立开发者出海之路](https://github.com/hua1995116/indiehackers-steps)
 > - https://github.com/josephchang10/awesome-indie
 
-## 关于手册
-
-这是一本独立开发者手册，旨在帮助有想法的人构建自己的产品。通过文档共创和社区驱动的方式，我们希望能够帮助更多的人更好的理解独立开发的过程。
-
-这是公益项目，我们欢迎所有人参与到这个项目中来，一起共建这个手册。
 
 ## 面向群体
 - 创意实践者
