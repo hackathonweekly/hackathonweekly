@@ -31,6 +31,7 @@ aliases:
 - 创意实践者
 - 独立开发者 & 技术爱好者
 - 互联网从业者
+- 部分愿意折腾的非技术人员 (利用低代码平台 & 他人协助)
 
 ## 我们的愿景
 - 共创共享： 倡导社区驱动的知识交流，鼓励开放共享。
@@ -68,3 +69,39 @@ aliases:
 
 我们珍视每一份创意，期待与您共筑尊重版权、促进创新的网络生态。
 
+## 致谢
+### 贡献者
+见: https://github.com/hackathonweekly/hackathonweekly
+
+### 本手册引用或参考了以下的资料
+
+站在巨人的肩膀上，我们才能看得更远。本手册的内容是在学习和借鉴了许多优秀的资料之后整理而成的，以下是一些本手册引用或参考的资料：
+
+- [中文SideProject Guide](https://sideproject.guide/idea)
+- [《一人企业方法论》2.0 ](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+- [程序员如何优雅地赚零花钱](https://github.com/easychen/howto-make-more-money)
+- [精益副业》](https://github.com/easychen/lean-side-bussiness)
+- [全栈开发路线图](https://learnku.com/articles/68565)
+- [程序员的第二曲线](https://symbol.iamkasong.com/)
+- [独立开发者出海之路](https://github.com/hua1995116/indiehackers-steps)
+- https://github.com/josephchang10/awesome-indie
+- https://wiki.decohack.com/
+- https://indiehacker.one/
+- [Startup idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)
+- [Founder Memos](https://www.julian.capital/)
+- [The indie maker handbook](https://readmake.com)
+- [Startup marketing checklist](https://github.com/draftdev/startup-marketing-checklist/blob/master/marketing-checklist.md)
+- [Startup library](https://startuplibrary.co/)
+
+在此表示感谢！
+
+### 本手册使用了以下的工具
+
+- [Vitepress](https://vitepress.dev/zh/): https://vitepress.dev/zh/
+- [Nolebase](https://github.com/nolebase/nolebase): vitepress 博客主题&插件, 支持跟 Obsidian 一起使用
+- [Giscus](https://giscus.app/zh-CN): Github Discussion 用以生成评论区
+- [Autocorrect](https://github.com/huacnlee/autocorrect): 用以自动格式化中文排版
+- [Vercel](https://vercel.com/): 部署网站
+- [All Contributors](https://allcontributors.org/): 用以生成贡献者列表
+
+在此表示感谢！
