@@ -1,0 +1,24 @@
+# .github/workflows/contributors.yml
+jobs:
+  contributors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: JoshuaKGoldberg/all-contributors-auto-action@v0.3.2
+  autocorrect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check source code
+        uses: actions/checkout@main
+
+      - name: AutoCorrect
+        uses: huacnlee/autocorrect-action@main
+        with:
+          use_npm: true
+
+name: Contributors
+
+on:
+  push:
+    branches:
+      - main
