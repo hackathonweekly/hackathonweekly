@@ -12,10 +12,10 @@ import TagsAlias from '../.vitepress/docsTagsAlias.json'
 import type { ArticleTree, DocsMetadata, DocsTagsAlias, Tag } from './types/metadata'
 
 const dir = './'
-const target = '/docs/独立开发者手册/'
+const target = 'docs/indie-handbook/'
 const folderTop = true
 
-export const DIR_ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..')
+export const DIR_ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '../..')
 export const DIR_VITEPRESS = resolve(dirname(fileURLToPath(import.meta.url)), '../.vitepress')
 
 const git = Git(DIR_ROOT)
