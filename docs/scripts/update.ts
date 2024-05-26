@@ -137,8 +137,8 @@ async function processSidebar(docs: string[], docsMetadata: DocsMetadata) {
 }
 
 /**
- * 排序传入的ArticleTree数组
- * @param articleTree 需要排序的ArticleTree数组
+ * 排序传入的 ArticleTree 数组
+ * @param articleTree 需要排序的 ArticleTree 数组
  * @return 排序后的结果
  */
 function articleTreeSort(articleTree: ArticleTree[]) {
@@ -149,8 +149,8 @@ function articleTreeSort(articleTree: ArticleTree[]) {
 }
 
 /**
- * 排序sidebar,返回新的sidebar数组
- * @param sidebar 需要排序的ArticleTree数组
+ * 排序 sidebar，返回新的 sidebar 数组
+ * @param sidebar 需要排序的 ArticleTree 数组
  * @param folderTop 是否优先排序文件夹
  * @returns ArticleTree[] 排序好了的数组
  */

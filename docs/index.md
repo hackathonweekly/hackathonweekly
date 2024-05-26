@@ -6,7 +6,7 @@ sidebar: false
 hero:
   name: "Hackathon Weekly"
   text: "周周黑客马拉松"
-  tagline: "每月花1个周末，创造1个最小产品原型，解决1个生活痛点，也许就是下一个改变世界的产品"
+  tagline: "每月花 1 个周末，创造 1 个最小产品原型，解决 1 个生活痛点，也许就是下一个改变世界的产品"
   actions:
     - theme: brand
       text: 关于我们
@@ -18,7 +18,7 @@ hero:
       text: 线下活动
       link: /线下活动
     - theme: alt
-      text: 独立开发者手册(开发中)
+      text: 独立开发者手册 (开发中)
       link: /indie-handbook/getting-started
 
 features:
@@ -30,9 +30,9 @@ features:
     details: 纯粹由技术发烧友驱动，每一次相聚都是由心而发。
   - icon: 🌐
     title: 灵活参与
-    details: 不管你身处何方，线上or线下，咱们连线搞事情。
+    details: 不管你身处何方，线上 or 线下，咱们连线搞事情。
   - icon: 🤝
-    title: 独行侠VS团队战
+    title: 独行侠 VS 团队战
     details: 一个人的冒险或一群人的狂欢，总有一款适合你。
   - icon: 🔗
     title: 跨界大乱斗
