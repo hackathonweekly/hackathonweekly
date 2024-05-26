@@ -26,9 +26,7 @@
     "docs:build": "pnpm run update && vitepress build docs",
     "docs:serve": "vitepress serve docs",
     "update": "tsx docs/scripts/update.ts",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "contributors:add": "all-contributors add",
-    "contributors:generate": "all-contributors generate"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.12.2",
@@ -56,7 +54,6 @@
     "@unocss/reset": "^0.58.9",
     "@vueuse/core": "^10.9.0",
     "@vueuse/shared": "^10.9.0",
-    "all-contributors-cli": "^6.26.1",
     "autocorrect-node": "^2.10.0",
     "emoji-regex": "^10.3.0",
     "eslint": "^8.57.0",
