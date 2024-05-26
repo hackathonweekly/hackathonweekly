@@ -26,7 +26,8 @@
     "docs:build": "pnpm run update && vitepress build docs",
     "docs:serve": "vitepress serve docs",
     "update": "tsx docs/scripts/update.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "autocorrect --fix"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.12.2",
