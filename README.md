@@ -4,8 +4,6 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [HackathonWeekly 周周黑客马拉松](https://hackathonweekly.com)
 
-[![All Contributors](https://img.shields.io/github/all-contributors/hackathonweekly/hackathonweekly?color=ee8449&style=flat-square)](#contributors)
-
 ## Contributors
 
 <!-- readme: contributors -start -->
