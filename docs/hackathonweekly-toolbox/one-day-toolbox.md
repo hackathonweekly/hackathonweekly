@@ -1,4 +1,4 @@
-# 一日创造最小 MVP 工具包
+# one-day-toolbox
 
 > [!WARNING]
 > Work in progress 

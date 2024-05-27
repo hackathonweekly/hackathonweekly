@@ -1,4 +1,4 @@
-# 关于我们
+# about-us
 ## HackathonWeekly 周周黑客马拉松
 
 <!-- <img src="/purple-logo.png" width="30%" align="left" /> -->

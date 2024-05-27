@@ -27,6 +27,7 @@
     "docs:serve": "vitepress serve docs",
     "update": "tsx docs/scripts/update.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
+    "image_compress": "tinypng-go docs",
     "format": "autocorrect --fix"
   },
   "devDependencies": {
@@ -69,6 +70,7 @@
     "node-fetch": "^3.3.2",
     "sharp": "^0.32.6",
     "simple-git": "^3.24.0",
+    "tinypng-go": "^0.0.10",
     "tsx": "^4.7.2",
     "typescript": "^5.4.4",
     "unocss": "^0.58.9",

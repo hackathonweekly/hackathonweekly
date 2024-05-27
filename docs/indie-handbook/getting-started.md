@@ -39,6 +39,23 @@ aliases:
 - 紧跟潮流：链接到细分领域最新最好的内容以及 KOL
 - 持续更新：确保内容实时更新，保持知识新鲜度。
 
+
+## 主要章节
+我们涵盖了独立开发的全过程, 包括：
+
+1. Prepare前期准备
+2. Idea方向规划
+3. Build开发
+4. Launch上架发布
+5. Grow运营推广
+6. Monetize商业化变现
+7. Automate自动化
+8. Exit卖出产品
+9. 组队与合作
+10. 创建公司
+
+你可以在侧边栏看到我们的主要章节，手机端可点击左上角 `Menu` 查看。
+
 ## 从哪开始？
 
 ### 第一步 快速阅读
@@ -50,8 +67,9 @@ aliases:
 
 
 ## 参与共创
-- 直接编辑：发现可改进之处？点击页面底部“编辑此页”，提交修改建议（PR Pull Request）
+- 直接编辑：点击页面底部“编辑此页”，提交修改建议（PR Pull Request）
 - 社群互动：扫码添加微信 `hackathonweekly`，备注 `独立开发者手册`，我们会邀请你加入我们的社区，一起参与到这个项目中来。
+- Obsidian 编辑: 你可以 fork 本项目，然后 git clone 到本地, 放到您的 Obsidian 仓库, 这样您就可以在 Obsidian 中编辑本项目了。
 - 建议在参与之前，先阅读[贡献指南](contribute.md)。
 
 <img src="/hackathon-weekly-wechat.jpg" width="30%"/>

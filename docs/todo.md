@@ -1,3 +1,4 @@
+# todo
 
 
 - [ ] 确定整体目录
@@ -13,7 +14,7 @@
     - [独立开发者出海之路](https://github.com/hua1995116/indiehackers-steps)
     - https://github.com/josephchang10/awesome-indie
     - https://sideproject.guide/
-- [ ] 增加友情链接
+- [ ] 增加友情链接 还有各种工具链接， 可以参考这个库实现对应的UI ： https://github.com/maomao1996/vitepress-nav-template
 - [ ] Edit link 在开头和结尾显示
 - [ ] 添加自动格式化笔记的功能，比如中英文标点转换，比如自动添加中英文之间的空格等等，自动首字母大小写等等
 - [ ] 文档全部迁移到 docs 下面，更规范一点

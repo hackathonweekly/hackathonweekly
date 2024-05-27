@@ -1,4 +1,7 @@
+---
+alias: [一小时创造工具包]
+---
 
-# 一小时创造最小 MVP 工具包
+# one-hour-toolbox
 > [!WARNING]
 > Work in progress 
