@@ -1,4 +1,4 @@
-# 一周创造最小 MVP 工具包
+# one-week-toolbox
 
 > [!WARNING]
 > Work in progress 

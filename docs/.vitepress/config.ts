@@ -222,6 +222,7 @@ export default defineConfig({
       { text: '线上活动', link: '/线上活动' },
       { text: '线下活动', link: '/线下活动' },
       { text: '独立开发者手册', link: '/indie-handbook/getting-started' },
+      { text: '飞书知识库', link: 'https://hackathonweekly.feishu.cn/wiki/WQ7EwFC7BijePAkMkAHcajkNnae' },
       { text: '最近更新', link: '/toc' },
       // { text: '关于我们', link: '/about-us' },
     ],
