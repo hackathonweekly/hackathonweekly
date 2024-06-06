@@ -35,7 +35,7 @@ export const creators: Creator[] = [
   {
     name: 'Arnold Xiao（逸云）',
     avatar: '',
-    username: 'Arnold Xiao',
+    username: 'hingchou',
     title: '发起人',
     desc: '设计&产品',
     links: [
@@ -44,6 +44,19 @@ export const creators: Creator[] = [
     ],
     nameAliases: ['Arnold Xiao', '逸云'],
     emailAliases: ['nightowlhc@gmail.com'],
+  },
+  {
+    name: 'AI Inception',
+    avatar: '',
+    username: 'gpt-open',
+    title: '发起人',
+    desc: 'Delving into the Mechanics and Applications of AI, Foreseeing Its Profound Impact on the World of Tomorrow.',
+    links: [
+      { type: 'github', icon: 'github', link: 'https://github.com/gpt-open' },
+      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/blmdxiao' },
+    ],
+    nameAliases: ['AI Inception'],
+    emailAliases: ['blmdxiao@gmail.com'],
   },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)
