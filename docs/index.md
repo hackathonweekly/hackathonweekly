@@ -5,8 +5,8 @@ sidebar: false
 
 hero:
   name: "Hackathon Weekly"
-  text: "周周黑客马拉松"
-  tagline: "每月花 1 个周末，创造 1 个最小产品原型，解决 1 个生活痛点，也许就是下一个改变世界的产品"
+  text: "周周黑客松"
+  tagline: "花1个周末，创造1个最小产品原型，也许就是下一个改变世界的产品"
   actions:
     - theme: brand
       text: 关于我们
@@ -41,5 +41,6 @@ features:
     title: 聊天室无话不谈
     details: 轻松小聚，分享你的奇思妙想，听听别人的脑暴时刻。
 ---
+# index
 
 <HomePage />

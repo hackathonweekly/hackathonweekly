@@ -23,7 +23,7 @@ export const creators: Creator[] = [
     name: 'jackiexiao',
     avatar: '',
     username: 'jackiexiao',
-    title: '发起人',
+    title: '贡献者',
     desc: '全栈开发者，渴望理解世界的运作模式',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/jackiexiao' },
@@ -36,7 +36,7 @@ export const creators: Creator[] = [
     name: 'Arnold Xiao（逸云）',
     avatar: '',
     username: 'hingchou',
-    title: '发起人',
+    title: '贡献者',
     desc: '设计&产品',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/hingchou' },
@@ -49,7 +49,7 @@ export const creators: Creator[] = [
     name: 'AI Inception',
     avatar: '',
     username: 'gpt-open',
-    title: '发起人',
+    title: '贡献者',
     desc: 'Delving into the Mechanics and Applications of AI, Foreseeing Its Profound Impact on the World of Tomorrow.',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/gpt-open' },
