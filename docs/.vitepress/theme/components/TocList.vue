@@ -4,6 +4,8 @@ import { computed } from 'vue'
 import type { ArticleTree } from '../../../scripts/types/metadata'
 import { sidebar } from '../../docsMetadata.json'
 
+const prefix_dir = '/docs';
+
 const list = computed(() => {
   const list: ArticleTree[] = ([] as any).concat(...sidebar.map(series => [...series?.items.map(item => ({ ...item, category: series.text }))]))
   for (let i = 0; i < list.length; i++) {
@@ -19,11 +21,21 @@ const sortedList = computed(() => {
   const ls = [...list.value]
   return ls.sort((a, b) => (b.lastUpdated || 0) - (a.lastUpdated || 0))
 })
+
+const adjustLink = (link: string | undefined): string => {
+  if (link === undefined) {
+    return '#';
+  }
+  if (link.startsWith(prefix_dir)) {
+    return link.substring(5);
+  }
+  return link;
+}
 </script>
 
 <template>
   <div v-for="item of sortedList" :key="item.link" class="space-y-3">
-    <a :href="item.link">
+    <a :href="adjustLink(item.link)">
       <h3 m="0">
         {{ item.text }}
       </h3>
@@ -34,7 +46,8 @@ const sortedList = computed(() => {
         <span class="align-middle opacity-50">
           类别：
         </span>
-        <span class="rounded-sm bg-[var(--vp-c-bg-mute)] px-6px py-3px align-middle opacity-70">{{ item.category }}</span>
+        <span class="rounded-sm bg-[var(--vp-c-bg-mute)] px-6px py-3px align-middle opacity-70">{{ item.category
+          }}</span>
       </div>
       <div class="inline-block opacity-50">
         <span class="i-octicon:history-16 align-middle text-xs" />
