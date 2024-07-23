@@ -1,3 +1,3 @@
-# Hackathon Weekly
+# HackathonWeekly
 
 https://hackathonweekly.com

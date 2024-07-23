@@ -3,37 +3,34 @@
 layout: home
 
 hero:
-  name: "Hackathon Weekly 🚀 "
-  text: "周周黑客马拉松"
-  tagline: "每月1个周末，创造1个最小产品原型，解决1个生活痛点，也许就是下一个改变世界的产品"
+  name: "HackathonWeekly 🚀 "
+  text: "周周黑客松\n公益开源的极客社区"
+  tagline: "花1周时间，创造1个最小可行产品，解决1个生活痛点，也许就是下1个改变世界的起点。"
   actions:
     - theme: brand
       text: 关于我们
       link: /about-us
     - theme: alt
-      text: 线上活动
-      link: https://hackathonweekly.feishu.cn/wiki/W5oAwI9o4irrBIkpYdxcQvSQnfK
-    - theme: alt
-      text: 线下活动
-      link: https://hackathonweekly.feishu.cn/wiki/XVnTw947riOQJckIVsZcUVRln2c
+      text: 飞书协作文档
+      link: https://hackathonweekly.feishu.cn/wiki/WQ7EwFC7BijePAkMkAHcajkNnae
 
 features:
-  - icon: 🛠️
-    title: 创意不设限
-    details: 周末变身创意实验室，让你的脑洞飞一会儿。
-  - icon: 👥
-    title: 真爱粉自组局
-    details: 纯粹由技术发烧友驱动，每一次相聚都是由心而发。
-  - icon: 🌐
-    title: 灵活参与
-    details: 不管你身处何方，线上or线下，咱们连线搞事情。
+  - icon: 📅
+    title: 定期举办
+    details: 每周都有活动，为创新提供持续的平台。
+  - icon: 🚀
+    title: 专注MVP
+    details: 快速开发最小可行产品，用实际行动验证你的想法。
+  - icon: 🛠
+    title: 重视落地
+    details: 实践大于空谈，强调将创意转化为实际的解决方案。
   - icon: 🤝
-    title: 独行侠VS团队战
-    details: 一个人的冒险或一群人的狂欢，总有一款适合你。
+    title: 互助友爱
+    details: 倡导利他精神，促进参与者之间的合作与交流。
+  - icon: 🎈
+    title: 自由轻松
+    details: 无需竞赛，创新只为热爱。
   - icon: 🔗
-    title: 跨界大乱斗
+    title: 跨界合作
     details: 程序员、设计师、产品经理…多元碰撞，擦出创新火花。
-  - icon: 💬
-    title: 聊天室无话不谈
-    details: 轻松小聚，分享你的奇思妙想，听听别人的脑暴时刻。
 ---
